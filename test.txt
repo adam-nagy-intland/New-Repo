@@ -12,3 +12,5 @@ sdfa
 sdfs
 webhook test
 webhook test2
+
+edit for #1002 item before upgrade
