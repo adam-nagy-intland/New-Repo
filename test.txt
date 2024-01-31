@@ -12,3 +12,5 @@ sdfa
 sdfs
 webhook test
 webhook test2
+
+test before upgrade #1055
